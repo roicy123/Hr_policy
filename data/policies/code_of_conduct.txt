@@ -1,0 +1,50 @@
+CODE OF CONDUCT
+Policy No: HR-POL-04 | Effective: 1 April 2025 | Owner: Human Resources and Compliance
+
+1. PURPOSE AND SCOPE
+This Code sets out the standards of behaviour expected from every employee, contractor, and intern. It applies in the office, while working remotely, at client sites, at company events, and in any online channel used for work.
+
+2. RESPECT AND INCLUSION
+2.1 Treat colleagues, clients, and vendors with courtesy. Discrimination based on gender, religion, caste, age, disability, sexual orientation, marital status, or region is not tolerated.
+2.2 Bullying, shouting, insulting remarks, and public humiliation are misconduct.
+2.3 Offensive jokes, messages, or images shared in any work channel are misconduct, even if meant as humour.
+
+3. PREVENTION OF SEXUAL HARASSMENT
+3.1 The Company follows the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013.
+3.2 An Internal Committee (IC) with a presiding officer, at least 2 employee members, and 1 external member handles all complaints.
+3.3 A written complaint can be sent to ic@company.example within 3 months of the incident. The IC may extend this by another 3 months for valid reasons.
+3.4 The IC completes its inquiry within 90 days. Complaints are kept confidential, and retaliation against a complainant or witness is a separate serious offence.
+
+4. CONFLICT OF INTEREST
+4.1 Employees must declare any financial interest in a client, vendor, or competitor using Form HR-09 within 15 days of becoming aware of it.
+4.2 Outside employment, freelancing, or running a business requires prior written approval from the Department Head and HR. Working for a competitor is not permitted at any time.
+4.3 Do not use Company time, equipment, or contacts for personal business.
+
+5. GIFTS AND ENTERTAINMENT
+5.1 Employees must not accept gifts worth more than Rs. 2,000 from clients or vendors. Gifts above this value must be reported to HR within 7 days and may be returned or donated.
+5.2 Cash or cash equivalents, including gift cards, must always be refused.
+5.3 Offering or accepting a bribe, in any form, is grounds for immediate termination and may lead to legal action.
+
+6. CONFIDENTIALITY AND DATA PROTECTION
+6.1 Client data, source code, pricing, and internal plans are confidential during employment and for 3 years after leaving the Company.
+6.2 Do not upload Company or client data to personal email, personal cloud storage, or public AI tools.
+6.3 Use only approved software. Installing unlicensed software on Company devices is prohibited.
+6.4 Any suspected data breach must be reported to security@company.example within 24 hours.
+
+7. INTELLECTUAL PROPERTY
+Work created during employment, or using Company resources, belongs to the Company. Employees may not copy or reuse client code or third-party licensed material without permission.
+
+8. SOCIAL MEDIA
+8.1 Do not speak on behalf of the Company on social media unless authorised by the Communications team.
+8.2 Do not share confidential information, client names, or internal screenshots publicly.
+
+9. SUBSTANCE ABUSE AND WORKPLACE SAFETY
+Use or possession of illegal drugs, or arriving at work under the influence of alcohol, is prohibited. Smoking is allowed only in designated areas.
+
+10. REPORTING CONCERNS
+10.1 Employees are encouraged to report violations to their manager, HR, or the anonymous Ethics Helpline at 1800-000-0000 (toll free).
+10.2 Reports made in good faith are protected. Retaliation against anyone who reports a concern is a disciplinary offence.
+
+11. DISCIPLINARY PROCESS
+11.1 Violations may lead to a verbal warning, written warning, suspension without pay for up to 7 days, demotion, or termination, depending on severity.
+11.2 For serious misconduct, the Company will issue a show-cause notice, and the employee has 5 working days to respond before a decision is made.

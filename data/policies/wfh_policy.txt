@@ -1,0 +1,47 @@
+WORK FROM HOME POLICY
+Policy No: HR-POL-02 | Effective: 1 April 2025 | Owner: Human Resources
+
+1. PURPOSE AND SCOPE
+This policy explains when and how employees may work remotely. It applies to all full-time employees who have completed their probation period. The Company follows a hybrid model: most teams work from the office on collaboration days and from home on focus days.
+
+2. ELIGIBILITY
+2.1 Full-time confirmed employees may work from home up to 2 days per week.
+2.2 Employees on probation (first 6 months) are not eligible for regular work from home. A manager may approve up to 2 ad-hoc WFH days per month in genuine cases.
+2.3 Interns and trainees must work from the office on all working days.
+2.4 Employees with 3 or more years of service and a "Meets Expectations" or higher rating may apply for an extended hybrid arrangement of up to 3 WFH days per week. Extended arrangements need approval from the Department Head.
+
+3. REQUESTING WORK FROM HOME
+3.1 Submit a request on the HR portal using Form HR-05 at least 1 working day in advance.
+3.2 Your reporting manager approves or rejects the request within 1 working day. Requests with no response after 1 working day are escalated to the Department Head.
+3.3 Recurring weekly WFH days may be agreed once for a period of up to 3 months and renewed after that.
+3.4 Fixed office days apply to everyone: every Tuesday and Thursday are mandatory in-office days for all teams, and WFH is not permitted on these days except with Department Head approval.
+
+4. WORKING HOURS AND AVAILABILITY
+4.1 Core hours are 10:00 AM to 4:00 PM IST. Employees must be online and reachable on the company chat tool during core hours.
+4.2 Standard working hours remain 9 hours per day, including a 1-hour break.
+4.3 Attendance on WFH days is marked through the HR portal by 10:30 AM. Failure to mark attendance for 3 days in a month may be treated as unauthorised absence.
+4.4 Employees must attend all scheduled meetings with their camera on unless the meeting organiser says otherwise.
+
+5. EQUIPMENT AND ALLOWANCES
+5.1 The Company provides one laptop per employee. Laptops must be used only for work and kept updated with the latest security patches.
+5.2 A one-time home-office setup allowance of Rs. 8,000 is available to confirmed employees who work from home at least 2 days a week. Claim it with bills within 60 days of approval using Form FIN-07.
+5.3 A monthly internet reimbursement of up to Rs. 1,000 is paid against a valid broadband bill for employees with an approved hybrid arrangement.
+5.4 Personal devices must not be used to store confidential Company data.
+
+6. INFORMATION SECURITY WHILE REMOTE
+6.1 Connect to Company systems only through the approved VPN.
+6.2 Do not use public Wi-Fi for work without VPN. Do not work in public places where your screen can be seen by others.
+6.3 Lock your screen whenever you step away. Sensitive documents must not be printed at home.
+6.4 Report any lost or stolen device to the IT helpdesk within 2 hours of discovering the loss.
+
+7. PERFORMANCE AND REVIEW
+7.1 Performance is measured by deliverables, not by hours online. Managers review WFH arrangements every 3 months.
+7.2 The Company may withdraw WFH privileges with 5 working days' notice if performance drops, security rules are broken, or business needs change.
+7.3 Employees working from a different city or state without approval will be treated as in breach of this policy, since tax and legal compliance differs by location.
+
+8. EXCEPTIONS
+8.1 Medical conditions, pregnancy, and caregiving emergencies may qualify for temporary full-remote work of up to 4 weeks. Submit supporting documents to HR.
+8.2 During natural disasters, severe weather, or public emergencies, the Company may declare mandatory work from home for all staff by email.
+
+9. CONTACT
+Questions about this policy can be sent to hr-helpdesk@company.example.
