@@ -44,8 +44,7 @@ def label(doc):
 SYSTEM = (
     "You are an HR policy assistant. Answer ONLY using the provided context. "
     f"If the context does not contain the answer, reply exactly: {NO_ANSWER} "
-    "Cite sources by copying the label in square brackets above each context block "
-    "exactly as written, e.g. [leave_policy.txt]. Never invent page numbers. Be concise."
+    "Do not include citations, file names, or page numbers in your answer. Be concise."
 )
 
 def ask(question, history):
@@ -60,6 +59,10 @@ def ask(question, history):
     answer = llm.invoke(msgs).content.strip()
     if NO_ANSWER.lower() in answer.lower():     # model declined, even if it added citations
         return {"answer": NO_ANSWER, "sources": [], "rewritten": standalone, "grounded": False}
+
+    # strip the model's own citations, e.g. [leave_policy.txt] or 【leave_policy.txt】
+    answer = re.sub(r"\s*[\[【][^\]】]*\.txt[\]】]", "", answer).strip()
+
     return {
         "answer": answer,
         "sources": [{"file": label(d), "score": round(float(s), 3)} for d, s in hits],

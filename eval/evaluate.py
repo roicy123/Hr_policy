@@ -38,6 +38,12 @@ FOLLOWUPS = [
      "Can I carry them forward?", "leave"),
     ("What is the WFH policy?", "Employees may work from home 2 days a week.",
      "Does that apply to interns?", "home"),
+    ("What is the notice period for Grade L2?","It is 60 days.",
+     "What about during probation?", "probation"),
+    ("What is the hotel limit per night?", "It depends on the city tier.", 
+     "And in Kochi?", "kochi"),
+    ("How many sick leaves do I get?", "You get 8 sick leaves per year.", 
+     "Do they carry forward?", "sick"),
     
 ]
 
