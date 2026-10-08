@@ -23,7 +23,7 @@ def load_docs(folder="data/policies"):
 if __name__ == "__main__":
     docs = load_docs()
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=800, chunk_overlap=100,
+        chunk_size=400, chunk_overlap=50,
         separators=["\n\n", "\n", ". ", " ", ""],
     )
     chunks = splitter.split_documents(docs)
